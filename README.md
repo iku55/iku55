@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=iku55)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iku55&show_icons=true)
-
+# iku55
+Undergraduate Student in Engineering Science at The University of Osaka  
+Interested in GIS, geospatial technologies, earthquake data analysis, and web development.  
+[Profile Site](https://iku55.github.io/profile/) [X (Twitter)](https://x.com/iku55mc)
